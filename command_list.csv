@@ -1,0 +1,128 @@
+    1  -help
+    2  help
+    3  ls
+    4  help ls
+    5  help cd
+    6  ping goole.com
+    7  dh -h
+    8  df -h
+    9  git config --global user.name "Dmytro Arkhipchuk"
+   10  git config --global user.email platebig@gmail.com
+   11  git config --gat user.name
+   12  clean
+   13  clear
+   14  git config --get user.name
+   15  gitconfig -- user.email
+   16  git config --get user.email
+   17  clear
+   18  git config --get user.name 
+   19  git config --get user.email
+   20  clear
+   21  git clone https://github.com/ArDmytro/HW_10.git
+   22  git status
+   23  ls -1
+   24  cd HW_10/
+   25  git status
+   26  git status
+   27  cd Hw_10
+   28  git status
+   29  cd HW_10
+   30  touch text_ignogre.txt
+   31  git status
+   32  help -k
+   33  help cd
+   34  clear
+   35  cd ¬
+   36  clear
+   37  cd ~
+   38  cd Pi
+   39  cd Pictures
+   40  cd ~
+   41  cd HW_10
+   42  clear
+   43  cd HW_10
+   44  ipconfog -all
+   45  clesr
+   46  clear
+   47  ipconfig
+   48  ipconfog -all
+   49  ipconfig -all
+   50  clear
+   51  ls -l
+   52  git status
+   53  cd Repository
+   54  cd /d/ Repository
+   55  cd /d/Repository
+   56  cd /d/repository/
+   57  cd /d/Repository/
+   58  cd Repository/
+   59  clear
+   60  cd /d/ Repository/
+   61  clear
+   62  cd /d/Repository/
+   63  clear
+   64  cd HW_10
+   65  cd HW_10
+   66  nano
+   67  cd .gitignore
+   68  cd gitignore
+   69  vim .gitignore
+   70  git status
+   71  git add.
+   72  commit
+   73  cat .gitignore
+   74  ls -l
+   75  clear
+   76  git add.
+   77  git add text_ignore.txt
+   78  git status
+   79  git add .gitignore
+   80  git status
+   81  rm text_ignogre.txt
+   82  git states
+   83  git status
+   84  touch text_ignore.txt
+   85  git status
+   86  clear
+   87  git status
+   88  cd ?/c/ HW_10
+   89  cd /c/HW_10
+   90  cd /c/Repository
+   91  cd Repository/
+   92  cd HW_10
+   93  git status
+   94  rm text_ignore.txt
+   95  clear
+   96  touch text_ignore.txt
+   97  git status
+   98  git add
+   99  git add.
+  100  git add .
+  101  git commit
+  102  git add text_ignore.txt
+  103  clear
+  104  git commit -m "GoTest"
+  105  touch main_test.txt
+  106  git status
+  107  clear
+  108  git add main_test.txt
+  109  git commit -m "test2"
+  110  git checkout -b develop
+  111  touch develop_test.txt
+  112  git add develop_test.txt
+  113  git commit -m "test3"
+  114  git status
+  115  clean
+  116  clear
+  117  git status
+  118  vim develop_test.txt
+  119  git status
+  120  git add develop_test.txt
+  121  git add . develop_test.txt
+  122  git commit -m "test4"
+  123  git checkput main
+  124  git checkout main
+  125  git branch
+  126  git merge develop
+  127  git log
+  128  history > command_list.csv
